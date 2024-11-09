@@ -6,13 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Remos 1.unity
-    guid: 011863fe0831e9f4ea4a691d4e562495
-  - enabled: 1
-    path: Assets/Scenes/Interaccion.unity
-    guid: 1075a2bffe2c9104baebcc5e138d560a
-  m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 926bd580ae74eaf4e89c2dd9c56d7d4b,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a6aa9fc5cde653f4eac874170a48eedf,
-      type: 2}
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects: {}
